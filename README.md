@@ -1,2 +1,2 @@
-# english-learning-bo
+# english-learning-bot
 Му English Learning telegram bot
